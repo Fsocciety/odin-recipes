@@ -61,3 +61,13 @@ h2 {
     box-shadow: 0 0 10px black;
     margin-bottom: 100px;
 }
+
+ul {
+    margin-top: 100px;
+}
+
+li {
+    list-style: none;
+    margin: 20px;
+    text-decoration: none;
+}
